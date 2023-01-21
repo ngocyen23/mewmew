@@ -1,0 +1,82 @@
+
+p {
+
+    margin-bottom: 0 }
+  
+  p + p {
+  
+    text-indent: 1.5em;
+  
+    margin-top: 0 }
+
+*, *:before,|*:after {
+    box-sizing: border-box;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.main-content {
+    float: right;
+    width: 70%;
+}
+aside {
+    float: left;
+    width: 25%;
+    background-color: steelblue;
+    padding: auto;
+}
+aside h2{
+    color: #fff ;
+}
+aside ul {
+    list-style-type: none;
+    padding: 0;
+}
+aside li {
+    padding: 0 0 .5em 0;
+    color: #fff;
+}
+h6{
+    font-size: 22px;
+    color:#440000;
+}
+h7{
+    font-size:20px;
+    color: darkslategrey;
+}
+.bro{
+    max-width: 500px;height:500px;
+}
+.hey{
+    max-width: 400px;height: 500px;
+}
+.hu{
+    max-width: 400px;height: 500px;
+}
+.hi{
+    max-width: 400px;height: 500px;
+}
+.ok{
+    max-width: 400px;height: 500px;;
+}
+.ko{
+    max-width: 400px;height: 500px;
+}
+.i{
+    max-width: 400px;height: 500px;
+}
+.u{
+    max-width: 400px;height: 500px;
+}
+.o{
+    max-width: 400px;height: 500px;
+}
+p2{
+    font-size: 14px;
+    color:darkred;
+}
+p3{
+    font-size: 20px;
+    color:darkred;
+}
